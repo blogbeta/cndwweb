@@ -2,7 +2,7 @@ OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>AGU</ShortName>
 <Description>AGU Search: private, independent, open</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Image width="32" height="32" type="image/png">https://cdn.search.brave.com/serp/v1/static/brand/eebf5f2ce06b0b0ee6bbd72d7e18621d4618b9663471d42463c692d019068072-brave-lion-favicon.png</Image>
+<Image width="32" height="32" type="image/png">https://github.com/blogbeta/cndwweb/blob/main/R.jfif</Image>
 <Url type="text/html" method="GET" template="https://www.google.com/search?q={searchTerms}"/>
 <Url type="application/x-suggestions+json" method="GET" template="https://search.brave.com/api/suggest?q={searchTerms}"/>
 </OpenSearchDescription>
